@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<group>
+	<student firstname="Cot" groupnumber="10" lastname="Matroskin">
+		<subject mark="1" title="Art"/>
+		<subject mark="1" title="Math"/>
+		<subject mark="1" title="Programming"/>
+		<subject mark="1" title="Biology"/>
+		<average>1.0</average>
+	</student>
+	<student firstname="Gena" groupnumber="10" lastname="Crocodil">
+		<subject mark="3" title="Art"/>
+		<subject mark="5" title="Math"/>
+		<subject mark="4" title="Programming"/>
+		<subject mark="5" title="Biology"/>
+		<average>4.3</average>
+	</student>
+	<student firstname="Solovei" groupnumber="10" lastname="Razboinic">
+		<subject mark="4" title="Art"/>
+		<subject mark="3" title="Math"/>
+		<subject mark="4" title="Programming"/>
+		<subject mark="3" title="Biology"/>
+		<average>3.5</average>
+	</student>
+</group>
